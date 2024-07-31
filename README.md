@@ -22,3 +22,9 @@ streamlit run main3.py
 - `model/`: Directory containing the deep learning model files.
 - `frames/`: Folder where captured frames are stored.
 - `requirements.txt`: Lists all the Python dependencies.
+
+#NOTE:
+Create a folder "model" and download the models from the drive link.
+Paste the models into the model folder and make changes in the path accordingly inside the code for the implementation.
+
+link : https://drive.google.com/drive/u/2/folders/1jPz2gibJENk9jrugljdhouIIpwIOyxjH
