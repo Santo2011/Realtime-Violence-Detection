@@ -49,7 +49,7 @@ st.title("D A S H B O A R D 📱")
 
 
 # Model Path
-MODEL_PATH = "C:/Users/Shanmugam/OneDrive/Desktop/Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/models"
+MODEL_PATH = "./Realtime-Violence-Detection_Using-DeepLearning-OpenCV-Streamlit/models"
 
 
 # Add Dropdown for model selection
